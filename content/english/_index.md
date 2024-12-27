@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Revealing Biases in everyday decision!"
-  content: "Every decision we make is influenced by unconscious biases, shaping our choices in ways we're often unaware of. The Latent Truth explores how these hidden factors impact our judgment and behavior. "
+  title: "Revealing Biases in Everyday Decisions!"
+  content: "Every decision we make is influenced by unconscious biases, shaping our choices in ways we're often unaware of. The Latent Truth explores what these hidden factors are & how they impact our judgment and behavior. "
   image: "/images/mainimage.jpg"
   button:
     enable: true

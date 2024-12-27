@@ -10,34 +10,41 @@ tags: ["Netflix", "Entertainment"]
 draft: false
 ---
 
-How long did it take for you to decide which movie to watch last time on Netflix? 
+<br> 
 
-Personally, it takes me at least 10-15 mins to choose the “perfect” movie that would suit my current mood, has decent ratings, and an amazing storyline. And most of the time, I end up rewatching an old movie/series just because I couldn't decide which movie to watch! Does this happen with you too?
+_Do you remember how long it took you to decide which movie to watch on Netflix last time?_ 
 
-Every one of us aims to maximize our welfare in every possible way. We want the best of things for ourselves, with whatever limited resources we have! Even businesses aim to maximize their welfare and their customer’s welfare.
+Personally, it takes me at least 10-15 minutes to choose the _perfect_ movie—one that matches my current mood, has decent IMDb ratings, and a compelling storyline. Yet, more often than not, I end up rewatching an old movie or series simply because I couldn’t decide on something new! Does this happen to you too?
 
-> Maximum welfare → requires maximum freedom → need a maximum no of choices → more choices mean we have to choose → make decisions again and again and again!!
+Each of us strives to maximize our well-being in every possible way, seeking the best for ourselves within the limits of our resources. Similarly, businesses aim to enhance their own welfare while also prioritizing the well-being of their customers. 
+
+> However, Maximum welfare → requires maximum freedom → needs maximum number of choices → more choices to choose from → the need to make decisions again and again and again!!
 
 
-Basically, from deciding whether to host your next meeting on MS Teams, Webex or Google meet or choosing which music streaming service to use, we make hundreds of decisions every day.
+From deciding whether to host your next meeting on MS Teams, Webex, or Google Meet to choosing which music streaming service to use, we make countless decisions every single day. In his TED talk, [Paradox of Choice](https://www.youtube.com/watch?v=VO6XEQIsCoM&t=74s), Barry Schwartz highlights how having more choices has made us not freer, but more paralyzed—not happier, but more dissatisfied. He illustrated this using a simple example. Imagine you’re sick and you have to visit a doctor. If after your diagnosis, the doc suggests you, “We could treat this by either A or B. These are the pros and cons of A and B respectively. What do you want to do?”. Since you don’t have sufficient knowledge in medicine, you ask the doctor, “What should I do?”. The doctor says, “We could treat this by either A or B. These are the pros and cons of A and B respectively. What do you want to do?”. This shows that we often have to make decisions about aspects of our lives we know little about.
 
-In his TED talk, Paradox of Choice, Barry Schwartz talks about how choice has made us not freer but more paralyzed, not happier but more dissatisfied. He illustrated this using a simple example! Imagine you’re sick and you visit a doctor. So after your diagnosis, the doc suggests you, “We could do A or we could do B. A has these benefits and these risks. B has these benefits and these risks. What do you want to do?”. Since you don’t have sufficient knowledge in medicine, you ask the doctor, “what should I do?”. The doctor says, “We could do A, or we could do B. A has these benefits and these risks. B has these benefits and these risks.” This demonstrates that we get to decide even those aspects of our lives we don’t have enough knowledge about!
+<br>
 
-## Introduction 
+## Introduction to Choice Theory 
 
-<img src="/images/Choiceparadoximage.webp" alt="Choice Paradox" width="400" style= "display: block; margin-left: auto; margin-right:auto ; width: 50%"> 
+<br>
 
-Some choice is definitely better than none. It makes us feel empowered. But more choices are not always better than some choices. These extra choices can make us worse off!
+{{< image src="images/Choiceparadoximage.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Choice Paradox"  webp="false" >}}
 
-The Paradox of Choice theory tells us that there is a point at which offering too many options makes it difficult to make a decision and that consumers may not make a decision at all as a way of coping. The phenomenon of “choice overload” occurs due to too many choices being available to consumers. 
+Some choice is undoubtedly better than none—it empowers us and allows us to tailor decisions to our needs. However, beyond a certain point, as demonstrated earlier, an abundance of choices can create conflict and confusion, ultimately leaving us worse off.
 
-**Overchoice has been associated with:**
+The **Paradox of Choice** theory suggests that there is a tipping point where offering additional options makes decision-making increasingly difficult. In some cases, consumers may avoid making a decision altogether as a way of coping. This phenomenon, known as **“Choice Overload,”** arises when too many options overwhelm consumers.
+
+**Choice overload is often associated with:**
+
 * Unhappiness
 * Decision fatigue
 * Going with the default option
 * Avoiding making the decision altogether
 
-But this may seem contradictory to what most of us believe. We have always thought that more choices are better. It offers the consumers a variety of products to choose from. But then why is it that we seem to suffer due to excess of choices?
+This idea may seem contradictory to what many of us believe. We’ve always assumed that more choices are better, providing consumers with a greater variety of options. 
+
+## Why does abundance leaves us feel dissatisfied?
 
 1. **Paralysis rather than liberation:** Every time you choose to rewatch an old TV series/movie instead of a new one because you couldn’t decide on a new one is an example of how too many choices can sometimes lead to decision paralysis. Sometimes it may cause us to avoid making the decision altogether.
 
@@ -45,23 +52,31 @@ But this may seem contradictory to what most of us believe. We have always thoug
 
 3. **Less satisfaction if we had fewer choices to choose from:** Suppose you’re unhappy with the product you choose. The more the number of choices to choose from, the more would be the regret from choosing a product you didn’t like as much. This leads to dissatisfaction.
 
-## The Paradox of Choice & Businesses
+<br> 
 
-In finance, the traditional rule of thumb is “Higher is the risk, higher is the reward.” More choices have always been considered good. As a reward for more choices, you might attract more customers. On the other hand, more choices mean carrying the risk of turning the customers off.
+## Quantifying the trade off for businesses
 
-Let’s consider the jam experiment that reveals when precisely offering less choice may enhance your sales. Basically, the study found that consumers were 10 times more likely to purchase jam on display when the number of jams available was reduced from 24 to 6.
+<br>
 
-<img src="/images/Choiceparadoximage.webp" alt="Choice Paradox" width="400" style= "display: block; margin-left: auto; margin-right:auto ; width: 50%">  
+{{< image src="images/more choices.webp" caption="The Jam Experiment: https://www.yourmarketingrules.com/the-paradox-of-choice/" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
-But many studies support the idea that choices are good and increase consumer’s likelihood of purchasing a product. So, how do we decide as to when is choice good or bad? A paper published in the Journal of Consumer psychology in 2015 successfully isolated four cases when reducing customers' choices is most likely to boost sales.
+Let’s consider the jam experiment that reveals when precisely offering less choice may enhance your sales. The study found that consumers were 10 times more likely to purchase jam on display when the number of jams available was reduced from 24 to 6. While the tipping point for additional choices varies from business to business, it undoubtedly exists.
 
-* When people want to make a quick and easy choice (effort-minimizing goal)
-* When making the right choice matters/you are selling complex products (the decision task is difficult)
-* When you show options that are difficult to compare (greater choice set complexity)
-* When your customers are unclear about their preferences (higher preference uncertainty)
+The Choice Overload theory along with the traditional view that choices are good and increase consumer's likelihood of purchasing a good highlights the need for quantifiable metrics to establish this trade off. Essentially for us to decide, when is choice good or bad? 
+
+A **[research](https://www.sciencedirect.com/science/article/abs/pii/S1057740814000916?np=y)** published in the Journal of Consumer psychology in 2015 successfully isolated **four cases when reducing customers' choices is most likely to boost sales**
+
+1. **Effort-minimizing goal:** When people want to make a quick and easy choice
+2. **Decision task is difficult:** When making the right choice matters/you are selling complex products
+3. **Greater choice set complexity:** When you show options that are difficult to compare 
+4. **Higher preference uncertainty:** When your customers are unclear about their preferences
+
+And there you have it! By keeping these four metrics in mind, we can avoid overwhelming consumers with unnecessary information while still offering a diverse selection.
+
+<br>
 
 ## Conclusion
 
-The paradox of choice is a real phenomenon, and decision-makers must test for it before launching their products in the market. It helps us understand the risk associated with more choices. Having said this, other than the four scenarios mentioned above, choices are considered advantageous & are said to make your product more attractive!
+The paradox of choice is a real phenomenon, and decision-makers must account for it before launching products in the market. It highlights the risks of overwhelming consumers with too many options. That said, beyond the four scenarios mentioned, offering choices is still a powerful advantage—it can make your product more appealing and increase its attractiveness.
 
-After all, none of us will use Netflix or Amazon Prime if they didn’t offer such a wide variety of movies and shows to watch xD.
+After all, none of us will use Netflix or Amazon Prime if they didn’t offer such a wide variety of movies and shows to choose from. xD
