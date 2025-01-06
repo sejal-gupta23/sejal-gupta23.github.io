@@ -21,7 +21,9 @@ Each of us strives to maximize our well-being in every possible way, seeking the
 > However, Maximum welfare → requires maximum freedom → needs maximum number of choices → more choices to choose from → the need to make decisions again and again and again!!
 
 
-From deciding whether to host your next meeting on MS Teams, Webex, or Google Meet to choosing which music streaming service to use, we make countless decisions every single day. In his TED talk, [Paradox of Choice](https://www.youtube.com/watch?v=VO6XEQIsCoM&t=74s), Barry Schwartz highlights how having more choices has made us not freer, but more paralyzed—not happier, but more dissatisfied. He illustrated this using a simple example. Imagine you’re sick and you have to visit a doctor. If after your diagnosis, the doc suggests you, “We could treat this by either A or B. These are the pros and cons of A and B respectively. What do you want to do?”. Since you don’t have sufficient knowledge in medicine, you ask the doctor, “What should I do?”. The doctor says, “We could treat this by either A or B. These are the pros and cons of A and B respectively. What do you want to do?”. This shows that we often have to make decisions about aspects of our lives we know little about.
+From deciding whether to host your next meeting on MS Teams, Webex, or Google Meet to choosing which music streaming service to use, we make countless decisions every single day. In his TED talk, [Paradox of Choice](https://www.youtube.com/watch?v=VO6XEQIsCoM&t=74s), Barry Schwartz highlights how having more choices has made us not freer, but more paralyzed—not happier, but more dissatisfied. He illustrated this using a simple example. 
+
+Imagine you’re sick and you have to visit a doctor. If after your diagnosis, the doctor suggests you, “We could treat this by either A or B. These are the pros and cons of A and B respectively. What do you want to do?”. Since you don’t have sufficient knowledge in medicine, you ask the doctor, “What should I do?”. The doctor says, “We could treat this by either A or B. These are the pros and cons of A and B respectively. What do you want to do?”. You'd be completely lost right? This shows that we often have to make decisions about aspects of our lives we know little about.
 
 <br>
 
@@ -42,7 +44,7 @@ The **Paradox of Choice** theory suggests that there is a tipping point where of
 * Going with the default option
 * Avoiding making the decision altogether
 
-This idea may seem contradictory to what many of us believe. We’ve always assumed that more choices are better, providing consumers with a greater variety of options. 
+This idea may seem contradictory to what many of us believe. We’ve always assumed that more choices are better, providing consumers with a greater variety of options. However, clearly this is not always the case. 
 
 ## Why does abundance leaves us feel dissatisfied?
 
@@ -72,7 +74,6 @@ A **[research](https://www.sciencedirect.com/science/article/abs/pii/S1057740814
 4. **Higher preference uncertainty:** When your customers are unclear about their preferences
 
 And there you have it! By keeping these four metrics in mind, we can avoid overwhelming consumers with unnecessary information while still offering a diverse selection.
-
 <br>
 
 ## Conclusion
