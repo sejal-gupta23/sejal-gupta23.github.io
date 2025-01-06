@@ -10,9 +10,8 @@ tags: ["Netflix", "Entertainment"]
 draft: false
 ---
 
-<br> 
 
-_Do you remember how long it took you to decide which movie to watch on Netflix last time?_ 
+Do you remember how long it took you to decide which movie to watch on Netflix last time? 
 
 Personally, it takes me at least 10-15 minutes to choose the _perfect_ movie—one that matches my current mood, has decent IMDb ratings, and a compelling storyline. Yet, more often than not, I end up rewatching an old movie or series simply because I couldn’t decide on something new! Does this happen to you too?
 

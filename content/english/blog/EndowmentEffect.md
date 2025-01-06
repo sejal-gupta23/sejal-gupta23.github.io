@@ -4,7 +4,7 @@ meta_title: ""
 description: "this is meta description"
 date: 2021-04-05T05:00:00Z
 image: "/images/EndowmentEffect1.webp"
-categories: ["Technology", "Data", "Human Biases"]
+categories: ["Behavioral Science"]
 author: "Sejal Gupta"
 tags: ["spotify", "free-trials"]
 draft: false
@@ -12,12 +12,14 @@ draft: false
 
 Can consumers be tricked for their love of music?
 
-
 We all enjoy listening to music. And no one likes ad interruptions during their music sessions. Spotify offers a one-month free trial period for Spotify premium subscription with ad-free music, unlimited skips, and offline listening. Similarly, a lot of platforms offer free one-month trials. But why do they?
 
 This is done to create a feeling of ownership amongst the users. It has been observed that we are prepared to pay more money for something that we already own than we would pay for the item if we did not own it. Simply put, humans value their possessions highly and dislike losing them. This phenomenon is referred to as the “Endowment Effect.” And it results in us buying the subscription after the free trial period is over.
 
 ## Endowment Effect
+
+
+{{< image src="images/EndowmentEffect2.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="EndowmentEffect"  webp="false" >}}
 
 The endowment effect is a behavioral economics principle that describes people’s tendency to value an object that they own higher than they would value it if they didn’t own it. It refers to the emotional bias that causes individuals to value an owned object higher, often irrationally, than its market value.
 
@@ -30,8 +32,9 @@ The endowment effect is usually observed as a byproduct of “loss aversion” �
 The endowment effect also occurs because we tend to undervalue opportunity costs. Opportunity costs are benefits that we miss out on when we choose one alternative over another. So if you could buy a burger or a pizza, then the opportunity cost of buying a burger would be a pizza. We miss out on the pizza if we buy a burger. In the endowment effect, we tend to over-value the items we own because we focus on losing the item more than the opportunity costs of the money paid. In this case, the opportunity cost of buying a Spotify subscription could be whatever you would have done with that money if you hadn’t bought the subscription.
 
 ## Endowment Effect around us 
+<br/>
 
-<!-- image  -->
+{{< image src="images/EndowmentEffect3.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="EndowmentEffect"  webp="false" >}}
 
 1. **Apple Showroom** 
 
