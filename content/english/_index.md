@@ -1,8 +1,9 @@
 ---
+
 # Banner
 banner:
   title: "Revealing Biases in Everyday Decisions!"
-  content: "Every decision we make is influenced by unconscious biases, shaping our choices in ways we're often unaware of. The Latent Truth explores what these hidden factors are & how they impact our judgment and behavior. "
+  content: "Every decision we make is influenced by unconscious biases, shaping our choices in ways we're often unaware of. The Latent Truth explores what these hidden factors are & how they impact our judgment and everyday behavior. "
   image: "/images/mainimage.jpg"
   # button:
   #   enable: true
@@ -13,7 +14,7 @@ banner:
 features:
   - title: "What is Latent Truth all about?"
     image: "/images/landing-page.png"
-    content: "This website dives deeper into how these biases play a role in consumer psychology, behavioral economics, and the power of Artificial Intelligence in shaping our decisions."
+    content: "Dive deeper into how these biases play a role in consumer psychology, behavioral economics, and the power of Artificial Intelligence in shaping our decisions."
     
     bulletpoints:
       - "Concepts of Behavioural Economics"
@@ -25,9 +26,9 @@ features:
     #   label: "Get Started Now"
     #   link: "hugoplate/content/english/blog" 
 
-  - title: "Who is this website for?"
+  - title: "Latest Blogs"
     image: "/images/mainpageaudience.jpg"
-    content: "This website is for anyone curious about using data for better insights, understanding biases that can mislead us, and exploring whether AI and ML models can ever be truly bias-free."
+    content: ""
     # bulletpoints:
     #   - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
     #   - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."

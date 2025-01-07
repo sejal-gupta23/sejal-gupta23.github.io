@@ -1,14 +1,15 @@
 ############# English navigation ##############
 
 # main menu
-[[main]]
-name = "Home"
-url = "/"
-weight = 1
+# [[main]]
+# name = "Home"
+# url = "/"
+# weight = 1
 
 [[main]]
-weight = 2
-name = "Pages"
+weight = 1
+name = "Blogs"
+url = "/blog"
 
 [[main]]
 name = "About"
@@ -20,15 +21,17 @@ weight = 3
 # url = "/elements"
 # weight = 3
 
-[[main]]
-parent = "Pages"
-name = "Blogs"
-url = "/blog"
+# [[main]]
+# parent = "Pages"
+# name = "Blogs"
+# url = "/blog"
 
 [[main]]
-parent = "Pages"
+# parent = "Pages"
 name = "Categories"
 url = "/categories"
+weight = 2
+
 
 # [[main]]
 # parent = "Pages"
