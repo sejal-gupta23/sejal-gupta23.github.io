@@ -6,10 +6,10 @@ image: "/images/myphoto.jpg"
 draft: false
 ---
 
-I am a **working professional, amateur dancer, and travel enthusiast** with a passion for exploring how data can be leveraged to generate meaningful insights. 
+I am currently at HUL, developing **AI algorithms for Demand Forecasting across General and E-Commerce trade**. I am enthusiastic about leveraging emerging technologies to solve complex business problems and transform them into lasting, impactful solutions. My key interests include **Behavioral Economics, Consumer Psychology, Advanced Data Analytics, and AI Modeling**.
 
-As I dive deeper into this field, I’ve come to realize that with vast amounts of data come inherent biases—some conscious, but most unconscious. This has sparked my interest in decision sciences, particularly in the areas of **behavioral economics, consumer psychology, and artificial intelligence modeling.** Through this passion project, I aim to further explore how these domains intersect and how we can better understand the human factors that influence decision-making.
+As I delve deeper into this field, I’ve realized that vast amounts of data often carry inherent biases—some explicit, but most unconscious. This awareness has fueled my passion for **Decision Sciences**. I am deeply interested in exploring how data can be harnessed to generate meaningful insights while understanding the impact of cognitive biases on engineers, managers, consumers, and creators alike. Through this project, I aim to share my discoveries and insights with you!
 
-Alongside, I am also excited trying my hands at **web development!** 
+In my free time, I enjoy **dancing, traveling, cooking, and exploring psychology**. I’m also passionate about learning new skills and am currently diving into **Web Development**.
 
-Stay tuned for some exciting insights and discoveries!
+You can reach out to me at: sejalg222@gmail.com

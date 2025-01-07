@@ -4,10 +4,10 @@ banner:
   title: "Revealing Biases in Everyday Decisions!"
   content: "Every decision we make is influenced by unconscious biases, shaping our choices in ways we're often unaware of. The Latent Truth explores what these hidden factors are & how they impact our judgment and behavior. "
   image: "/images/mainimage.jpg"
-  button:
-    enable: true
-    label: "Get Started"
-    link: "xx"
+  # button:
+  #   enable: true
+  #   label: "Get Started"
+  #   link: "xx"
 
 # Features
 features:
@@ -35,7 +35,7 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "https://www.thelatenttruth.com/blog/"
 
   # - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
   #   image: "/images/service-3.png"
