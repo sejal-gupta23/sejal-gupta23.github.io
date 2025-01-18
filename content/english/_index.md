@@ -3,7 +3,14 @@
 # Banner
 banner:
   title: "Revealing Biases in Everyday Decisions!"
-  content: "Every decision we make is influenced by unconscious biases, shaping our choices in ways we're often unaware of. The Latent Truth explores what these hidden factors are & how they impact our judgment and everyday behavior. "
+  content: "Every decision we make is influenced by conscious choices & hidden biases shaping our choices in more ways than we realize. Imagine uncovering these **latent** biases — understanding the invisible hand that shapes your judgment, steers your preferences, and even sways your most critical decisions. 
+  
+  <br/>
+  <br/>
+
+
+  **The Latent Truth** explores what these hidden forces are, how they impact our judgment and if we can be smarter decision makers? **Are you ready to uncover the truth hidden in plain sight?** "
+
   image: "/images/mainimage.jpg"
   # button:
   #   enable: true
@@ -14,12 +21,12 @@ banner:
 features:
   - title: "What is Latent Truth all about?"
     image: "/images/landing-page.png"
-    content: "Dive deeper into how these biases play a role in consumer psychology, behavioral economics, and the power of Artificial Intelligence in shaping our decisions."
+    content: "Dive deeper into the field of Consumer Psychology, Behavioral Economics, and the power of Artificial Intelligence in shaping our decisions."
     
     bulletpoints:
-      - "Concepts of Behavioural Economics"
-      - "Consumer Psychology in everyday life"
-      - "(Bias-free?) Data Analysis & Modeling with AI"
+      - "How does Economics meet Psychology?"
+      - "Are human beings always rational?"
+      - "Is Artificial Intelligence & Data-based modeling always bias free?"
   
     # button:       
     #   enable: true

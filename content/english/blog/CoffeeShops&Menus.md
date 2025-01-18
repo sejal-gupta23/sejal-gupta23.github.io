@@ -3,7 +3,7 @@ title: "Coffee Shop Menus, Zomato & Price Targeting Strategies"
 meta_title: ""
 description: "this is meta description"
 date: 2022-02-08T05:00:00Z
-image: "/images/zomato.webp"
+image: "/images/tips.jpg"  
 categories: ["Pricing Strategy"]
 author: "Sejal Gupta"
 tags: ["Coffee Shops", "Menus", "Zomato"]
