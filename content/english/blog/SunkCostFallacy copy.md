@@ -3,8 +3,8 @@ title: "The Sunk Cost Fallacy and Music Concerts"
 meta_title: ""
 description: "this is meta description"
 date: 2021-02-15T05:00:00Z
-image: "/images/sunkcost.webp"
-categories: ["Marketing"]
+image: "/images/sunkcost.jpg"
+categories: ["Consumer Psychology"]
 author: "Sejal Gupta"
 tags: ["Concerts"]
 draft: false
@@ -12,13 +12,11 @@ draft: false
 
 Imagine you bought tickets to a concert a few weeks ago for INR 2000. On the day of the concert, you’re feeling sick, or it’s raining outside. You know that traffic would be worse because of the rain and it would take you longer than usual. Although it seems as though the current drawbacks outweigh the benefits, why are you still likely to choose to go to the concert?
 
-The idea of “sunk costs” often applies to money, but invested time, energy, or pain can also influence behavior. Romantic relationships are a classic example. The longer you’ve been together, the harder it is to break up.
+The idea of “sunk costs” often applies to money, but invested time, energy, or pain can also influence behavior. Romantic relationships are a classic example. The longer you’ve been together, the harder it is to break up.Or sometimes we let unworn clothes clutter our closets because they were expensive. We are likely to disregard the fact that we no longer wear these clothes and let them hang around in our closets forever! So if you’ve ever found yourself in such situations, you are already familiar with the Sunk Cost Fallacy.
 
-Or sometimes we let unworn clothes clutter our closets because they were expensive. We are likely to disregard the fact that we no longer wear these clothes and let them hang around in our closets forever! So if you’ve ever found yourself in such situations, you are already familiar with the Sunk Cost Fallacy.
+**Sunk Cost Fallacy refers to the human tendency to continue an endeavor if they have already invested time/money/effort into it. That often means we go against evidence that shows it is no longer the best decision, such as keeping unworn clothes or attending a concert despite the rain.**
 
-> Sunk Cost Fallacy refers to the human tendency to continue an endeavor if they have already invested time/money/effort into it. That often means we go against evidence that shows it is no longer the best decision, such as keeping unworn clothes or attending a concert despite the rain.
-
-## Understanding Sunken Costs 
+### Understanding Sunken Costs 
 
 A Sunk Cost is a cost that has already been made and cannot be recovered. On the other hand, prospective costs are future costs that may be avoided if appropriate action is taken. For example, when you’re considering pre-ordering movie tickets but have not actually purchased them, the cost remains avoidable. On the other hand, if you’ve already paid for the movie tickets two weeks in advance, at present, this would be considered as a “sunken cost” (provided that the tickets are non-refundable).
 
@@ -30,7 +28,7 @@ Accept the waste of money on the tickets and watch the remainder of the show hal
 Accept the waste of money on the tickets and leave the concert.
 Here the second option is favorable since it involves suffering in only one way (wasted money) than the first option where you suffer because of wasted money and time.
 
-## Why does it happen? 
+### Why does it happen? 
 
 The sunk cost fallacy affects our decision making and leads us to make irrational decisions. When we have previously invested in a choice, we are likely to feel guilty or regret it if we don’t follow through on that decision.
 
@@ -40,17 +38,19 @@ The sunk cost fallacy may occur in part due to loss aversion. The impact of loss
 
 Sunk cost fallacy may occur due to many other behavioral factors such as the desire not to appear wasteful, or sense of personal responsibility, or framing effects. Framing effects is a cognitive bias where people decide on options based on how positively/negatively they are presented.
 
-## How to avoid sunken cost fallacy and make more rational decisions? 
+##### How to avoid sunken cost fallacy and make more rational decisions? 
 
 While it is difficult to overcome most cognitive biases, if we are aware of the sunk cost fallacy, we can try to ensure we are focusing on current and future costs and benefits instead of past commitments. We should focus on concrete logical actions instead of the feeling of wastefulness or guilt that accompanies dropping an earlier commitment.
 
-## Sunken costs in Businesses 
+### Sunken costs in Businesses 
 
-1. Research and Development (R&D): Almost all industries have research and development expenses, and these expenses vary from industry to industry. Massive investments are made in the R&D of a product. The above image illustrates sunk costs incurred in research and development.
-2. Marketing Expenses: Most businesses spend on advertising and marketing to promote their products & services. The amount that has already been spent on marketing is not recoverable.
+{{< image src="images/sunk.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+
+1. **Research and Development (R&D):** Almost all industries have research and development expenses, and these expenses vary from industry to industry. Massive investments are made in the R&D of a product. The above image illustrates sunk costs incurred in research and development.
+2. **Marketing Expenses:** Most businesses spend on advertising and marketing to promote their products & services. The amount that has already been spent on marketing is not recoverable.
 
 Imagine a scenario where a company spent INR 1,00,000 on a marketing campaign. At present, the campaign isn’t showing much promise (no significant increase in sales). So now the company has two options: either spend more or end the campaign altogether. If the company spends INR 1,00,000 more, they might observe a sales profit hike worth INR 5,00,000. Whereas if they don’t spend more money on the campaign, the sales remain the same. So, while making this decision, the company will weigh the cost of INR 1,00,000 against the benefits, i.e., INR 5,00,000. Since the cost is significantly less than the benefits, the company invests more in the campaign. Nowhere in the decision-making process have we considered the previously spent INR 1,00,000 (though we might be tempted to!).
 
-## Conclusion 
+### Conclusion 
 
 The Sunk Cost Fallacy describes our tendency to pursue an endeavor that we have already committed to in terms of invested money, time, or efforts, even if the costs are not recoverable. Since the sunk cost fallacy is caused by our desire to avoid negative emotions, we must try to put emotions out of the equation while making decisions. This is where technologies come into the picture. The use of technologies to help us make decisions will help us remove the emotional parameter from the decision-making process, removing most cognitive biases.

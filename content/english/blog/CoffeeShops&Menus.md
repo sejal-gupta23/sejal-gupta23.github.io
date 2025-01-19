@@ -3,14 +3,14 @@ title: "Coffee Shop Menus, Zomato & Price Targeting Strategies"
 meta_title: ""
 description: "this is meta description"
 date: 2022-02-08T05:00:00Z
-image: "/images/tips.jpg"  
+image: "/images/tip.jpg"  
 categories: ["Pricing Strategy"]
 author: "Sejal Gupta"
 tags: ["Coffee Shops", "Menus", "Zomato"]
 draft: false
 ---
 
-Remember when Zomato introduced the “Add tip for the delivery executive” feature?
+**Remember when Zomato introduced the “Add tip for the delivery executive” feature?**
 
 This option, allowing users to tip between INR 10 to INR 50 directly to delivery executives without deductions, highlighted customers’ willingness to pay extra when given a reason.
 
@@ -18,7 +18,7 @@ Leveraging this data, Zomato could develop an algorithm to segment customers int
 
 This approach exemplifies a **subtle yet effective pricing strategy** Zomato could employ.
 
-## Determinents of Pricing
+### Determinents of Pricing
 
 Pricing Strategies (or Price Targeting Strategies) refer to pricing a product or service by the seller to maximize his/her profits. Pricing strategies determine the price companies set for their products. The price can be set to maximize profitability from each unit sold or from the market overall. It is targeted at the customers and against the competitors.
 
@@ -30,7 +30,7 @@ There are numerous strategies that a company can engage in, depending on
 * Customers
 
 
-## Three types of pricing strategies
+### Three types of pricing strategies
 
 Let's focus further on how a company can price its products differently, keeping its customers in mind. 
 
@@ -42,11 +42,9 @@ There are three common strategies for segregating customers and pricing the prod
 
 3. **Self Incrimination Strategy:** This is the cleverest (and the most innovative) of all three strategies. To understand this, let us consider the menu of a coffee shop.
 
-## Pricing Strategy @ a Coffee Shop 
-
 <br/>
 
-{{< image src="images/coffeeshopmenu.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Choice Paradox"  webp="false" >}}
+{{< image src="images/coffee-shop-menu.jpg" caption="Self Incrimination Strategy in a Coffee shop menu" alt="alter-text" height="200" width="500" position="center" command="fill" option="q100" class="img-fluid" title="Choice Paradox"  webp="false" >}}
 
 
 Eye opener expresso- just give me the caffeine (INR 98)
@@ -60,8 +58,8 @@ If you think of it, café mocha is just a café latte with chocolate syrup. So c
 
 To get customers to give themselves away, the company has to sell products that are at least different from each other. They offer these products in different quantities, with different features, and at different locations. In simpler terms, the company persuades the customers into paying a premium (extra profit for the company) when the customer is feeling indulgent or is willing to pay extra without the customer's knowledge.
 
-## Conclusion
+### Conclusion
 
 After discussing all the three pricing strategies, we can confidently say that a company aims to squeeze the maximum advantage out of whatever scarcity power they have. Price targeting is the most common way to do so! Products can be prices based on many other strategies depending upon the product, company, competitors, and customers. In this blog, we just explored 3 of the many possible strategies. This is where the marketing team comes into play and can use various innovative techniques to price their products!
 
-> To leave you with a thought, “How much the customer is willing to pay for the product has very little to do with cost and has very much to do with how much they value the product or service they’re buying.”
+To leave you with the thought, **_"How much the customer is willing to pay for the product has very little to do with cost and has very much to do with how much they value the product or service they’re buying."_**
