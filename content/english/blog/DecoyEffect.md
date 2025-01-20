@@ -46,9 +46,13 @@ Interestingly, one might think that introducing another alternative is likely to
 You can follow the next five simple steps to add the decoy effect to your pricing:
 
 1. **Choose your key product:** This is the product that you want to sell more.
+
 2. **Structure your key products:** Your key product should contain more benefits than the other products and should be higher priced.
+
 3. **Create a decoy:** Add a product to your set of products such that your key product asymmetrically dominates it.
+
 4. **Have at least three offers:** This gives customers more variety to compare and choose from. However, please don’t give a consumer more than 5 choices as it may decrease your decoy's effectiveness.
+
 5. **Price the decoy close to your key product:** The decoy must have the same or a slightly lower price.
 
 ### Another example: The Economist 

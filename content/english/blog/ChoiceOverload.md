@@ -1,5 +1,5 @@
 ---
-title: "Why is less more? : The Choice Overload Phenomenon "
+title: "Why is less, more? : The Choice Overload Phenomenon "
 meta_title: ""
 description: "this is meta description"
 date: 2021-03-04T05:00:00Z
@@ -33,16 +33,19 @@ Some choice is undoubtedly better than none—it empowers us and allows us to ta
 
 The **Paradox of Choice** theory suggests that there is a tipping point where offering additional options makes decision-making increasingly difficult. In some cases, consumers may avoid making a decision altogether as a way of coping. This phenomenon, known as **“Choice Overload,”** arises when too many options overwhelm consumers.
 
-**Choice overload is often associated with:**
+**Choice overload is often associated with:** 
 
-* Unhappiness
-* Decision fatigue
-* Going with the default option
-* Avoiding making the decision altogether
+-  Unhappines 
+
+-  Decision Fatigue
+
+-  Going with the default option
+ 
+- Avoiding making the decision altogether
 
 This idea may seem contradictory to what many of us believe. We’ve always assumed that more choices are better, providing consumers with a greater variety of options. However, clearly this is not always the case. 
 
-### Why does abundance leaves us feel dissatisfied?
+### Why does abundance of choice dissatisfy us?
 
 1. **Paralysis rather than liberation:** Every time you choose to rewatch an old TV series/movie instead of a new one because you couldn’t decide on a new one is an example of how too many choices can sometimes lead to decision paralysis. Sometimes it may cause us to avoid making the decision altogether.
 
@@ -61,12 +64,15 @@ The Choice Overload theory along with the traditional view that choices are good
 A **[research](https://www.sciencedirect.com/science/article/abs/pii/S1057740814000916?np=y)** published in the Journal of Consumer psychology in 2015 successfully isolated **four cases when reducing customers' choices is most likely to boost sales**
 
 1. **Effort-minimizing goal:** When people want to make a quick and easy choice
+
 2. **Decision task is difficult:** When making the right choice matters/you are selling complex products
-3. **Greater choice set complexity:** When you show options that are difficult to compare 
+
+3. **Greater choice set complexity:** When you show options that are difficult to compare
+
 4. **Higher preference uncertainty:** When your customers are unclear about their preferences
 
 And there you have it! By keeping these four metrics in mind, we can avoid overwhelming consumers with unnecessary information while still offering a diverse selection.
-<br>
+
 
 ### Conclusion
 

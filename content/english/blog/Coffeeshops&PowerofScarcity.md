@@ -14,8 +14,6 @@ Hundreds and thousands of people travel in metro trains in India on a daily basi
 
 Considering this, let’s imagine a scenario. College students are mostly sleep-deprived, and company employees work on a tight schedule (a highly probable assumption we make). Now suppose there is only one coffee shop, i.e., Café Coffee Day located on a particular metro station. Now, these sleep-deprived individuals running on tight schedules at 8:30 in the morning wouldn’t mind a cup of coffee, would they? Also, none of them would care to waste time trying to save a few pennies by searching for a coffee shop nearby (assuming that the customers can afford a cup of coffee at CCD). They want coffee, and they want it now!
 
-<!-- image -->
-
 Hence the location of a coffee bar is crucial. It is also important that there are no other coffee bars on that particular metro station as it would distribute the customers of this particular coffee shop, in our case, CCD. Hence, as a “coffeepreneur,” the right way to act would be to look for a metro station without a coffee cart and open one there.
 
 But now, since I own the only coffee cart on the entire metro station, I have the liberty to charge unreasonably high prices from my customers. From a business perspective, this seems like an amazing opportunity. But is it?

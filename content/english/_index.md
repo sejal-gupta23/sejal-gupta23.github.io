@@ -3,18 +3,19 @@
 # Banner
 banner:
   title: "Revealing Biases in Everyday Decisions!"
-  content: "Every decision we make is influenced by conscious choices & hidden biases shaping our choices in more ways than we realize. Imagine uncovering these **latent** biases — understanding the invisible hand that shapes your judgment, steers your preferences, and even sways your most critical decisions.
+  content: "<br>Every decision we make is influenced by conscious choices & hidden biases shaping our choices in more ways than we realize. Imagine uncovering these **latent** biases — understanding the invisible hand that shapes your judgment, steers your preferences, and even sways your most critical decisions.
 
-  <br/>
-  <br/>
+  <br>
+  <br>
 
   **The Latent Truth** explores what these hidden forces are, how they impact our judgment and if we can be smarter decision makers? **Are you ready to uncover the truth hidden in plain sight?** "
 
   image: "/images/mainimage.jpg"
-  # button:
-  #    enable: true
-  #    label: "Get Started"
-  #    link: "https://www.thelatenttruth.com/blog/"
+  button:
+     enable: true
+     label: "Get Started"
+     link: "https://www.thelatenttruth.com/blog/"
+
 
 # Features
 features:
@@ -32,17 +33,17 @@ features:
     #   label: "Get Started Now"
     #   link: "hugoplate/content/english/blog" 
 
-  - title: "Latest Blogs"
-    image: "/images/mainpageaudience.jpg"
-    content: ""
-    # bulletpoints:
-    #   - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-    #   - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-    #   - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://www.thelatenttruth.com/blog/"
+  # - title: "Latest Blogs"
+  #   image: "/images/mainpageaudience.jpg"
+  #   content: ""
+  #   # bulletpoints:
+  #   #   - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
+  #   #   - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
+  #   #   - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+  #   button:
+  #     enable: true
+  #     label: "Get Started Now"
+  #     link: "https://www.thelatenttruth.com/blog/"
 
   # - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
   #   image: "/images/service-3.png"

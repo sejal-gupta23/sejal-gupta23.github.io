@@ -47,6 +47,7 @@ While it is difficult to overcome most cognitive biases, if we are aware of the 
 {{< image src="images/sunk.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 1. **Research and Development (R&D):** Almost all industries have research and development expenses, and these expenses vary from industry to industry. Massive investments are made in the R&D of a product. The above image illustrates sunk costs incurred in research and development.
+
 2. **Marketing Expenses:** Most businesses spend on advertising and marketing to promote their products & services. The amount that has already been spent on marketing is not recoverable.
 
 Imagine a scenario where a company spent INR 1,00,000 on a marketing campaign. At present, the campaign isn’t showing much promise (no significant increase in sales). So now the company has two options: either spend more or end the campaign altogether. If the company spends INR 1,00,000 more, they might observe a sales profit hike worth INR 5,00,000. Whereas if they don’t spend more money on the campaign, the sales remain the same. So, while making this decision, the company will weigh the cost of INR 1,00,000 against the benefits, i.e., INR 5,00,000. Since the cost is significantly less than the benefits, the company invests more in the campaign. Nowhere in the decision-making process have we considered the previously spent INR 1,00,000 (though we might be tempted to!).

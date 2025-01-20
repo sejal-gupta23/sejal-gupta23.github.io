@@ -34,7 +34,9 @@ Let’s imagine 2 jars of cookies. The first jar has plenty of cookies, while th
 Scarcity marketing works for three main reasons:
 
 1. **Buyers who purchase scarce items feel exclusive:** Buying a rare or limited supply product makes the buyer feel a sense of power as people tend to view scarce items as more valuable.
+
 2. **Buyers fear the feeling of non-purchase regrets:** Since buyers believe scarce items to be more valuable and hence rare, they don’t want to miss their one-time shot at possessing something rare.
+
 3. **Buyers experience fear of missing out (FOMO):** FOMO is the psychological stress you experience when you’re feeling excluded or left out of enjoyable experiences.
 
 ## Few more examples...
@@ -50,7 +52,9 @@ Scarcity marketing works for three main reasons:
 Till now, we’ve explored why scarcity marketing works and how marketers around the world use it to accelerate demand. However, it has its own limitations. If not implemented on the right product at the right time, this tactic can sometimes backfire and push customers away from the product. Let’s find out how!
 
 1. **Can be used to boost “already existing sales”:** Imagine a product with deficient demand on Amazon. Even if I slap a timer or a limited stock warning on the product, it won’t encourage customers to buy it because they are not interested in buying the product. Scarcity Marketing increases the intensity of desirability of an item that is already in demand. One must aim to create a loyal customer base before tying in an illusion of scarcity with the product.
+
 2. **Too much pressure is a bad thing:** When you put too much pressure on the consumers to act, they may feel like you’re forcing them into action and not letting them make their own decisions. This is an easy way to break ties with loyal customers.
+
 3. **Scarcity should be used in moderation or “scarcely”:** If each product you browsed on Amazon was available in limited stock, you’re likely to get annoyed. If nothing else, you’ll think that Amazon can’t manage its inventory well. This can hurt the brand’s reputation and affect its customer base negatively.
 
 ### Conclusion

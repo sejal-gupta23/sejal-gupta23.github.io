@@ -25,8 +25,11 @@ Pricing Strategies (or Price Targeting Strategies) refer to pricing a product or
 There are numerous strategies that a company can engage in, depending on
 
 * Product
+
 * Company
+
 * Competitors
+
 * Customers
 
 
