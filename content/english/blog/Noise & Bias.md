@@ -7,7 +7,7 @@ image: "/images/Noisemain.jpg"
 categories: ["Behavioral Science"]
 author: "Sejal Gupta"
 tags: ["Bias"]
-draft: false
+draft: true
 ---
 
 An average adult makes about 33,000 to 35,000 daily decisions—ranging from what we eat and what we wear to which source of entertainment we will consume at the end of the day. But are our choices truly our own? Is every decision we make influenced only by the factors we consciously consider, or are there hidden forces at play?
