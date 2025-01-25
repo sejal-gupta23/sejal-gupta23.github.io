@@ -7,7 +7,7 @@ image: "/images/sunkcost.jpg"
 categories: ["Behavioral Science"]
 author: "Sejal Gupta"
 tags: ["Bias"]
-draft: false
+draft: true
 ---
 
 Noise and Bias are cognitive biases. 
