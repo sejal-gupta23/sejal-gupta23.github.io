@@ -14,7 +14,7 @@ An average adult makes about 33,000 to 35,000 daily decisions— from what we ea
 
 Let’s look at the below image and do an exercise. Which one of the following lines is shorter? 
 
-{{< image src="images/Muller-Lyer1.jpg" caption="Muller-Lyer Illusion" alt="alter-text" height="200" width="400" position="center" command="fill" option="q100" class="img-fluid" title="Humans and Rationale?"  webp="false" >}}
+{{< image src="images/Muller-Lyer1.jpg" caption="[Muller-Lyer Illusion](https://www.verywellmind.com/how-the-muller-lyer-illusion-works-4111110)" alt="alter-text" height="200" width="400" position="center" command="fill" option="q100" class="img-fluid" title="Humans and Rationale?"  webp="false" >}}
 
 Now, since we are doing this exercise here, I guess it is no surprise that all three lines are the same length. However, if we focus on this image repeatedly for as long as we can, we continue to perceive the three lines differently—the first one appearing the shortest and the second one the longest. This illusion is famously known as the “Müller-Lyer Illusion” and gives us a glimpse of how something as simple as arrows can create the illusion of varying lengths. In fashion, some dresses are designed to make you look taller— a real-life example of the Müller-Lyer illusion in action! 
 
