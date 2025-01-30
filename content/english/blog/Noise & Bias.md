@@ -1,7 +1,7 @@
 ---
 title: "Noise vs. Bias: Are they really the same?"
 meta_title: ""
-description: "this is meta description"
+description: "Sejal's Blog"
 date: 2025-01-24T05:00:00Z
 image: "/images/Noisemain.jpg"
 categories: ["Behavioral Science"]
